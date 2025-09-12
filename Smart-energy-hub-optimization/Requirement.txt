@@ -1,0 +1,5 @@
+# requirements.txt
+pulp    # This is the most common library for MILP in Python
+pandas
+numpy
+matplotlib
