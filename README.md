@@ -31,6 +31,10 @@ Technical Implementation:
 - Solver: CBC (Coin-or branch and cut)
 - Constraints: Minimum uptime/downtime for heat pumps (6h/2h) | Storage minimum charge levels (20%) | Maximum fossil fuel share (35% of heat production)
 
+Conclusion:
+- For the selection of a better model in terms of CO2 emission factor, it is recommended to use the model having CHP and Heat Pump. There is a significant reduction in the consumption of electricity from the Private grid. 
+- The excess electricity from CHP and PV is being fed into the grid, which generates revenue.
+
 Author: 
 - Noumaan Hawaldar
 - Master's Student in International Energy Engineering
